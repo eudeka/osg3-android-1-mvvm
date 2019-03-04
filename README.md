@@ -1,5 +1,5 @@
 # Online Study Group eudeka
-Online Study Group (OSG) eudeka merupakan sarana belajar online yang difasilitatori oleh https://www.eudeka.id.
+Online Study Group (OSG) eudeka merupakan sarana belajar online yang difasilitatori oleh https://eudeka.id.
 ## OSG #3 - Android for Industry
 OSG batch ketiga kali ini bertema tentang pemrograman Android for Industry, dimana diperuntukkan untuk peserta yang ingin belajar membuat aplikasi Android yang diperuntukan untuk kebutuhan Industry saat ini.
 
